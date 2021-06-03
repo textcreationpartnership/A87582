@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jesuites plots and counsels plainly discovered to the most unlearned: which hath satisfied many about these present distractions. VVherein is laid open the Jesuites endeavours to bring all states to monarchies, and all the commons in monarchies to slavery, and how they have been put on foot here in England. Also how their counsels brought Germany into these long and bloudy wars, and endeavoured to bring Poland into slavery.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87582</idno><idno type="EEBO-CITATION">99871999</idno>
+  <idno type="VID">156851</idno>
+  <idno type="EEBO-PROQUEST">2240947602</idno>
+  
+            <idno type="STC">Wing J724</idno>
+            <idno type="STC">Thomason E155_5</idno>
+            <idno type="STC">ESTC R23440</idno>
+            <idno type="PROQUEST">99871999</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871999e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87582)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156851)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E155[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Jesuites plots and counsels plainly discovered to the most unlearned: which hath satisfied many about these present distractions. VVherein is laid open the Jesuites endeavours to bring all states to monarchies, and all the commons in monarchies to slavery, and how they have been put on foot here in England. Also how their counsels brought Germany into these long and bloudy wars, and endeavoured to bring Poland into slavery.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Bartlet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Jesuits --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Religion --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156851:1"/>
+            <p>
+               <hi>JESƲITES</hi> PLOTS AND COUNSELS <hi>Plainly discovered</hi> To the most unlearned: <hi>Which hath satisfied many about these present distractions.</hi>
+            </p>
+            <p>VVherein is laid open the Jesuites endea<g ref="char:EOLhyphen"/>vours to bring all States to Monarchies, and all the Commons in Monarchies to Slavery, and how they have been put on foot here in <hi>England.</hi>
+            </p>
+            <p>Also how their counsels brought <hi>Germany</hi> into these long and blouay wars, and endeavoured to bring <hi>Poland</hi> into slavery.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Bartlet.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156851:2"/>
+            <pb n="1" facs="tcp:156851:2"/>
+            <head>JESUITES Plots and Counsels plainly discovered, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S our Brethren of <hi>Scotland</hi> (after evill Counsellors had loaded them with as ma<g ref="char:EOLhyphen"/>ny reproaches of as high a nature as now are laid against the Parliament) were yet found loyall Subjects at last, when as they had made way to enforme his Majesty of the wrongs done to himself and his Kingdoms thereby, so we hope will this Parliament at length be found, who have con<g ref="char:EOLhyphen"/>flicted with the same Counsellers to undoe <hi>England</hi> and <hi>Ireland,</hi> which endeavoured to undoe <hi>Scotland,</hi> and who have done no other acts of State against his Ma<g ref="char:EOLhyphen"/>jesties mind, then they did.</p>
+            <p>This Parliament is hated above all other, because it hath found more Delinquents, and especially because it cannot be broken at pleasure; and ever since that Act was passed, all wayes have been taken to dissolve or de<g ref="char:EOLhyphen"/>stroy it, even before these bug-beares of <hi>Hull,</hi> or the <hi>Militia</hi> were hatched. And now that all other plots faile them, they would render them odious to the peo<g ref="char:EOLhyphen"/>ple, that they might help to doe it: And what wonder if those that have counselled to break so many Parlia<g ref="char:EOLhyphen"/>ments, laboured to divide Parliaments, hated and scor<g ref="char:EOLhyphen"/>ned Laws and Parliaments these many yeers, should now be active against this lasting Parliament? It is wel known, the Jesuites plots &amp; counsels are utterly against Parliaments, and all Government where Commons have any hand, because one man is easier dealt withall
+<pb n="2" facs="tcp:156851:3"/> then many: And therefore the State of <hi>Venice</hi> (though they be Papists) have banished them, as haters of their kind of Government. It was long since said by a great Statesman, that the Jesuites counsels were followed lesse or more in all Kingdomes, both where they were loved and where they were hated, but in States <note n="*" place="margin">Republiques.</note> not so easily. And to that end have they laboured these 100. yeares as stories tell us, to bring people every where to slavery, and Kings to be absolute. And about that time, the King of <hi>Spaine</hi> guided by their counsels, lost the Low Countries by endeavouring to make them slaves. And who sees not, that such Counsels have prevailed too long among us here, especially since the French Queen and her Jesuites came into <hi>England;</hi> who is indeede accounted the fire-brand of all Chri<g ref="char:EOLhyphen"/>stendome; and so men may easily see the rise of all our miserable distractions at this time: and what reason Parliaments have to oppose them and fence Kings against them, lest the Jesuites subtile Coun<g ref="char:EOLhyphen"/>sels enable our Papists (as it was in <hi>Germany,</hi> at the beginning of their civill wars) to divide the Prote<g ref="char:EOLhyphen"/>stants, and make them helpe to destroy each other. It hath been declared in Parliament, that those which have put <hi>Ireland</hi> into bloud, did hope to have begun first with us. And what plots have been assayed in <hi>Scotland</hi> to bring all to confusion, by some of the same hands that are now against us, before his Majesties journey thither, and when he was there also, are not yet forgotten. And the Papists, though they play under board, in all these have set Protestants against Prote<g ref="char:EOLhyphen"/>stants, except onely in <hi>Ireland,</hi> where they were ten to one, and also thought themselves sure of friends at our Court, (and perhaps then in Parliament too) potent
+<pb n="3" facs="tcp:156851:3"/> enough to stop all succours from the poor Protestants there, and so feared not to declare to fight for Popery, and to root out all Protestants Irish or English. In all other places they easily draw to them such as are ob<g ref="char:EOLhyphen"/>noxious to the Laws, as Papists, Arminians, and other offenders are here that live against the laws. And what wonder if they be active against Parliaments, and for the Kings prerogative, whither they must fly for shelter against the Justice of Parliaments. Oh that the Lord would please to make <hi>England</hi> wise by all the misery of our neighbours about us! especially <note n="*" place="margin">When the Emperour la<g ref="char:EOLhyphen"/>boured to re<g ref="char:EOLhyphen"/>duce it to sla<g ref="char:EOLhyphen"/>very,</note>
+               <hi>Germany,</hi> who hath suffered such long and wofull calamity, and was brought into it by the same wayes the Papists now go about to bring misery upon us: For they pretended the authority of the Emperour, whom they had on their side, and great love and friendship to those Protestants called <hi>Lutherans,</hi> and laboured to incense them against those Protestants called <hi>Calvinists,</hi> who are reformed farthest from Popery; and did at length so divide them, as that the D. of Saxony with his great strength took on the Emperours side, and so the Lantgrave of <hi>Darmstat</hi> and others who had great countreys under their command. And most of the rest stood Neuters, as the chiefe Duke of <hi>Brunswick, Luneburg, Aunsbach,</hi> and the Cities of <hi>Ausburg, Norimberg, Wormes,</hi> &amp;c. Yet the Marquesse of <hi>Baden</hi> being a Lutheran, and some other, took part with the Calvinists, foreseeing the treachery of the Emperour and his Papists. Those that stood Neuters, durst not trust the Papists, and yet out of ill will would not joyne with the Calvinists. And thus things stood under bloudy wars about a dozen years, till the Emperour and Papists began (notwithstanding all their faire promises) to oppresse the Duke of Saxo<g ref="char:EOLhyphen"/>ny
+<pb n="5" facs="tcp:156851:4"/> and other Lutherans that sided with them, as well as those that stood Neuters; and then the Lutheran Princes as well as the Calvinists, called in the King of <hi>Sweden</hi> to their aid against the Emperour and his Pa<g ref="char:EOLhyphen"/>pists, who with great diligence and wisdome united all Protestants together when it was too late, and that goodly large fruitfull countrey was almost wasted and desolated, and till this day, after 20. yeeres miserable wars, the Papists, with the help of neighbour Papists abroad, stand in defiance against the Protestants so uni<g ref="char:EOLhyphen"/>ted, and all the power of <hi>Swedeland</hi> also: and yet at first the Protestants were two to one, if they had then stuck together. Which had they done, I beleeve (as I heard some of the Princes of <hi>Germany</hi> say when I was there) the War had been quickly and happily ended. And our quarrels would soone be ended, if the Lord please to give all Protestants wisdome to side with the King and Parliament, and joyne them together, not with King and a faction of Papists and Arminians that would engrosse his Majesty to themselves from his Par<g ref="char:EOLhyphen"/>liament: As the <hi>Scots</hi> wisely and loyally did to their e<g ref="char:EOLhyphen"/>ternall honour and safety, who intended no disloyall act against the King, but onely came to remove evill counsellors from him, and accordingly sent their Peti<g ref="char:EOLhyphen"/>tions before them. All this well considered, will satis<g ref="char:EOLhyphen"/>fie the common Objection now made against this Par<g ref="char:EOLhyphen"/>liament, That although we have hitherto obtained much good thereby, yet now they are like to bring all to confusion and ruine▪ For if such Counsels as afore<g ref="char:EOLhyphen"/>said have been and still are followed, had we had no Parliament, we must have lost Religion and Liberties forever, or else those illegall taxes, burdens, and su<g ref="char:EOLhyphen"/>perstitions put upon us, and the injustice of all Courts
+<pb n="4" facs="tcp:156851:4"/> racking us, must needs have put us into worse confusi<g ref="char:EOLhyphen"/>on, having no head and lawfull power to guide us. And since the sitting of this Parliament, if they had suffered all things, and not resisted as they did, they would cer<g ref="char:EOLhyphen"/>tainly have been dissolved or destroyed, and then where had all the new Laws been as wel as the old? They that so easily brake the old, could break the new, and bring up all Courts and Taxes againe. And those that have dealt so with us already, and would have made a bloudy War upon the Scots, and practised so much treachery and falshood against them, who are yet found loyal subjects, and honest men, and have bin alwayes ready to hinder all succour for our brethren of <hi>Ireland,</hi> what hope can we have so long as any of them are suffered about his sacred Majesty?</p>
+            <p>The example of the late King of <hi>Poland</hi> may also teach us the wicked practice of the Jesuites, who be<g ref="char:EOLhyphen"/>ing a man of great parts, of a very just and sweete nature when he was young; was yet by those counsels brought to endeavour the ruine of that State, who free<g ref="char:EOLhyphen"/>ly chose him, and made him a King, being one of the most free and potent States under a King, of the Chri<g ref="char:EOLhyphen"/>stian world. They might assemble in Parliament for six weekes once every yeere if need were, and aske the King no leave, as I have beene told by some of their own mouthes, and then take downe all Officers of Court and Kingdom if faulty, and set up new. They might have every Noble-man his guard of some 200. some 300. men, &amp;c. yet by subtile dividing the Great men and favouring Factions, especially the blasphe<g ref="char:EOLhyphen"/>mous Sect of Socinians who are further from Popery, (which was the Kings Religion there) then any other:
+<pb n="6" facs="tcp:156851:5"/> For that little truth of the blessed Trinity and of Christ, which Papists maintaine with us, they de<g ref="char:EOLhyphen"/>ny and count it to be Popish doctrine: yet these were favoured, and did much increase. And if that King had lived to this day, he was in an easie way to have enslaved that free people, and overthrown their glorious state: For when some of the free Princes of that State, and Lords went to advise with the Duke of <hi>Lituania</hi> thereabout, he told them it seemed too late now, and his advice should have been heard long ago. Indeede now at the election of this new King, they have setled all in its ancient splendor againe. These things are well known to those Merchants that traded that way in those times.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:156851:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
